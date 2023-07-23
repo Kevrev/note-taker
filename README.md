@@ -10,7 +10,7 @@ After navigating to the deployed application, users can enter the note taking pa
 
 ![Screenshot](/public/assets/images/screenshot.jpg)
 
-Link to the deployed website itself:
+Link to the GitHub repository:
 
 https://github.com/Kevrev/note-taker
 
