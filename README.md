@@ -30,3 +30,4 @@ https://kevrev-note-taker-fabefda11513.herokuapp.com/
 
 ## Credits
 
+Credit to [this](https://stackoverflow.com/questions/60625082/attempting-to-set-a-heroku-buildpack-before-deploying-project) thread on StackOverflow for helping me figure out how to set the buildpack for this application so it could be deployed to Heroku.
