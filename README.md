@@ -14,7 +14,7 @@ Link to the deployed website itself:
 
 https://github.com/Kevrev/note-taker
 
-A video walkthrough of the application:
+The deployed application:
 
 [insert video link here]
 
