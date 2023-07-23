@@ -16,7 +16,7 @@ https://github.com/Kevrev/note-taker
 
 The deployed application:
 
-[insert video link here]
+https://kevrev-note-taker-fabefda11513.herokuapp.com/
 
 ## Technology Used
 
